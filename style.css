@@ -1,0 +1,134 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	font-family: "Times New Roman";
+	font-size: 14px;
+	margin: 0;
+	background: #f3f7fa;
+}
+
+
+
+
+
+
+
+
+
+
+
+h1 {
+	font-size: 40px;
+	font-weight: bold;
+	margin-bottom: 0;
+	line-height: 1.2;
+}
+
+/*///////////////Header//////////////////*/
+
+.container{
+	max-width: 1140px;
+	margin: auto;
+}
+.padding-row{
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.top-header{
+	display: block;
+    overflow: hidden;
+	background: #fff;
+	height: 56px;
+	padding-top: 15px;
+}
+.text-header{
+	width: 75%;
+	float: right;
+	text-align: center;
+}
+.top-header-content{
+	font-size: 24px;
+	line-height: 1.5em;
+}
+
+/*////////////////////home//////////////*/
+
+.head-sec{
+	text-align: center;
+}
+.equal-col {
+    width: 45%;
+    float: left;
+    margin-left: 20px;
+}
+.test-img img {
+    width: 100%;
+}
+.test-icon {
+    width: 15%;
+    float: left;
+}
+.testo-cntnt {
+    width: 75%;
+    float: left;
+    margin-top: 1em;
+}
+.stock-retirement{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.newsletr-cntn{
+	padding: 0 23px;
+}
+.newsleter-contain {
+ background: #ffffff;
+padding: 26px 20px;
+box-shadow: -1px 3px 10px 2px #888;
+}
+.news-bttn {
+    width: 100%;
+    padding: 14px;
+    margin-bottom: 10px;
+    border: none;
+    background: #f3aa00;
+    color: #fff;
+    font-weight: 700;
+    font-size: 16px;
+}
+#email-field {
+    width: 93%;
+    padding: 14px;
+    margin: 10px 0;
+    color: #4c545b;
+    font-size: 16px;
+}
+.section-spacing{
+	display: block;
+    overflow: hidden;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	
+}
+
+.about-sec-spac {
+    padding: 53px 1px 0px 0px;
+}
+#main-footer{
+	padding: 70px 0;
+display: block;
+overflow: hidden;
+	background: url("img/bg.png");
+	background-position: center;
+	background-size: cover;
+}
+#bottum-footer {
+    display: block;
+    overflow: hidden;
+    background: #1b476f;
+	padding: 10px;
+	
+}
+#bottum-footer a{
+	color: #d89309; 
+}
